@@ -31,9 +31,7 @@ I'm a **Software Engineering Student & Full-Stack Developer** based in Peshawar,
 | **[Aetherion](https://github.com/abyan-lab/Aetherion)** | Frontend application showcasing modern interactive design and clean architecture. | JavaScript, HTML, CSS |
 
 ---
-
-### 📈 GitHub Stats
+### 📈 Activity & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abyan-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abyan-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abyan-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
