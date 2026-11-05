@@ -31,7 +31,7 @@ I'm a **Software Engineering Student & Full-Stack Developer** based in Peshawar,
 | **[Aetherion](https://github.com/abyan-lab/Aetherion)** | Frontend application showcasing modern interactive design and clean architecture. | JavaScript, HTML, CSS |
 
 ---
-### 📈 Activity & Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abyan-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 📊 GitHub Activity & Focus
+- 🚀 **Core Focus:** Full-Stack Development, Python Automation, and AI/ML Workflows.
+- 🔥 **Active Repositories:** 12+ public and private repositories spanning Python, JavaScript, C++, SQL, and Flutter.
+- 📅 **Current Initiative:** Building out the `Python30-Abyan` 30-day challenge starting December 1.
