@@ -33,5 +33,5 @@ I'm a **Comuputer Science Student & Full-Stack Developer** based in Peshawar, Pa
 ---
 ### 📊 GitHub Activity & Focus
 - 🚀 **Core Focus:** Full-Stack Development, Python Automation, and AI/ML Workflows.
-- 🔥 **Active Repositories:** 12+ public and private repositories spanning Python, JavaScript, C++, SQL, and Flutter.
+- 🔥 **Active Repositories:** 14 public and private repositories spanning Python, JavaScript, C++, SQL, and Flutter.
 - 📅 **Current Initiative:** Building out the `Python30-Abyan` 30-day challenge starting December 1.
