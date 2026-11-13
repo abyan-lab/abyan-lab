@@ -8,7 +8,7 @@
 ---
 
 ### 💻 About Me
-I'm a **Software Engineering Student & Full-Stack Developer** based in Peshawar, Pakistan, driven by a deep polymathic curiosity for software architecture, database design, and intelligent application development. Whether I'm crafting responsive user interfaces with **React** and **Flutter**, querying and structuring relational data with **SQL**, building automated Python backend pipelines, or experimenting with machine learning models and NLP chatbots, I focus on turning complex logic into clean, scalable, and high-performance applications.
+I'm a **Comuputer Science Student & Full-Stack Developer** based in Peshawar, Pakistan, driven by a deep polymathic curiosity for software architecture, database design, and intelligent application development. Whether I'm crafting responsive user interfaces with **React** and **Flutter**, querying and structuring relational data with **SQL**, building automated Python backend pipelines, or experimenting with machine learning models and NLP chatbots, I focus on turning complex logic into clean, scalable, and high-performance applications.
 
 ---
 
